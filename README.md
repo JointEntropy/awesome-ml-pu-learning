@@ -19,5 +19,5 @@
     - [`nnPUlearning`](https://github.com/kiryor/nnPUlearning)
     - [`pulearn`](https://github.com/pulearn/pulearn)
   - [Spark](#frameworks-spark)
-    - [pu4spark)](https://github.com/ispras/pu4spark)
+    - [pu4spark](https://github.com/ispras/pu4spark)
 
