@@ -1,7 +1,5 @@
 # Awesome ML Positive Unlabeled learning
 
-
-
 ### Papers
 <!-- MarkdownTOC depth=4 -->
 - [Papers \\w code](#papers)
@@ -25,3 +23,9 @@
 ### Tutorials
 
 - [An introductory tutorial to the "Learning from Positive and Unlabeled Data" field.](https://dtai.cs.kuleuven.be/tutorials/pulearning/)
+
+
+### Concepts
+
+- Cost-sensitive and sample-selection methods
+- Inductive vs Transductive PU learning. a.k.a(?) (Single-training set vs case-control scenario)
