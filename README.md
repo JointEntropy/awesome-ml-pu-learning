@@ -23,7 +23,7 @@
 ### Tutorials
 
 - [An introductory tutorial to the "Learning from Positive and Unlabeled Data" field.](https://dtai.cs.kuleuven.be/tutorials/pulearning/)
-
+- [tinyML Talks Phoenix: Positive Unlabeled Learning for Tiny ML](https://www.youtube.com/watch?v=uk6SlTzfbUY)
 
 ### Concepts
 
