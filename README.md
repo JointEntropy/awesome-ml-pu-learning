@@ -24,6 +24,7 @@
 
 - [An introductory tutorial to the "Learning from Positive and Unlabeled Data" field.](https://dtai.cs.kuleuven.be/tutorials/pulearning/)
 - [tinyML Talks Phoenix: Positive Unlabeled Learning for Tiny ML](https://www.youtube.com/watch?v=uk6SlTzfbUY)
+- [Semi-Supervised Classification of Unlabeled Data (PU Learning)](https://towardsdatascience.com/semi-supervised-classification-of-unlabeled-data-pu-learning-81f96e96f7cb)
 
 ### Concepts
 
