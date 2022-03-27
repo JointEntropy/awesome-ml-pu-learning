@@ -32,3 +32,6 @@
 
 - Cost-sensitive and sample-selection methods
 - Inductive vs Transductive PU learning. a.k.a(?) (Single-training set vs case-control scenario)
+- Assumptions
+  - [Partial Seperability](https://youtu.be/uk6SlTzfbUY?t=1129)
+  - [SCAR(Selected Completely At Random)](https://youtu.be/uk6SlTzfbUY?t=1243)
