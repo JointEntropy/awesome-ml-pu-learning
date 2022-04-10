@@ -15,6 +15,7 @@
     - [A bagging SVM to learn from positive and unlabeled examples(2013)](https://members.cbio.mines-paristech.fr/~jvert/svn/bibli/local/Mordelet2013bagging.pdf) \[[pulearn](https://github.com/pulearn/pulearn#32bagging-based-pu-learning)\]
     - [Improving Positive Unlabeled Learning: Practical AUL Estimation and New Training Method for Extremely Imbalanced Data Sets(2020)](https://arxiv.org/pdf/2004.09820.pdf)
     - [PULNS: Positive-Unlabeled Learning with Effective Negative Sample Selector(2021)](https://ojs.aaai.org/index.php/AAAI/article/view/17064/16871)\[[slides](https://slideslive.com/38948747/pulns-positiveunlabeled-learning-with-effective-negative-sample-selector)\]
+    - [Revisiting Sample Selection Approach to Positive-Unlabeled Learning: Turning Unlabeled Data into Positive rather than Negative(2019)](https://arxiv.org/pdf/1901.10155.pdf)
 
 ### Implementations
 - [Frameworks](#frameworks)
