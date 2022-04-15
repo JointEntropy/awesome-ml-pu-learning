@@ -7,7 +7,7 @@
     - [Theoretical Comparisons of Positive-Unlabeled Learning against Positive-Negative Learning(2016)](https://proceedings.neurips.cc/paper/2016/file/be3159ad04564bfb90db9e32851ebf9c-Paper.pdf)
     - [Learning from positive and unlabeled data: a survey(2018)](https://arxiv.org/abs/1811.04820)
     - [Positive and unlabeled learning algorithms and applications: A survey(2019)](https://www.researchgate.net/profile/Kristen-Jaskie/publication/337503578_Positive_And_Unlabeled_Learning_Algorithms_And_Applications_A_Survey/links/609b0124458515d31513c2e9/Positive-And-Unlabeled-Learning-Algorithms-And-Applications-A-Survey.pdf)
-    - [Exploring Positive Unlabeled Machine Learning](https://digital.wpi.edu/downloads/vq27zr55f)
+    - [Exploring Positive Unlabeled Machine Learning(2021)](https://digital.wpi.edu/downloads/vq27zr55f)
   - [Cost-sensitive methods](#cost-sensitive)
     - [Learning Classifiers from Only Positive and Unlabeled Data(2008)](https://cseweb.ucsd.edu/~elkan/posonly.pdf)\[[pulearn](https://github.com/pulearn/pulearn#31elkanoto)\]
     - [Analysis of Learning from Positive and Unlabeled Data(2014)](https://papers.nips.cc/paper/2014/file/35051070e572e47d2c26c241ab88307f-Paper.pdf)
