@@ -41,5 +41,5 @@
   - [Partial Seperability](https://youtu.be/uk6SlTzfbUY?t=1129)
   - [SCAR(Selected Completely At Random)](https://youtu.be/uk6SlTzfbUY?t=1243)
 
-### Applications 
-WIP
+### Cases/Applications 
+- [Positive Unlabeled Learing, MegaFon, ODS.ai(2020)\[RU\]](https://youtu.be/7nKswav3Zrw) 
