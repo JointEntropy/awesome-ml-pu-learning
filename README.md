@@ -13,7 +13,7 @@
     - [Analysis of Learning from Positive and Unlabeled Data(2014)](https://papers.nips.cc/paper/2014/file/35051070e572e47d2c26c241ab88307f-Paper.pdf)
     - [A Modified Logistic Regression for Positive and Unlabeled Learning(2019)](https://www.researchgate.net/profile/Kristen-Jaskie/publication/340306999_A_Modified_Logistic_Regression_for_Positive_and_Unlabeled_Learning/links/609b0152a6fdccaebd2525d1/A-Modified-Logistic-Regression-for-Positive-and-Unlabeled-Learning.pdf) \[[video](https://www.youtube.com/watch?v=uk6SlTzfbUY)\]
   - [Sample-selection/Two-step methods](#sample-selection)
-    - [Positive-unlabeled learning for disease gene identification(2012)](https://academic.oup.com/bioinformatics/article/28/20/2640/206620?login=true)[]
+    - [Positive-unlabeled learning for disease gene identification(2012)](https://academic.oup.com/bioinformatics/article/28/20/2640/206620?login=true)
     - [A bagging SVM to learn from positive and unlabeled examples(2013)](https://members.cbio.mines-paristech.fr/~jvert/svn/bibli/local/Mordelet2013bagging.pdf) \[[pulearn](https://github.com/pulearn/pulearn#32bagging-based-pu-learning)\]
     - [Improving Positive Unlabeled Learning: Practical AUL Estimation and New Training Method for Extremely Imbalanced Data Sets(2020)](https://arxiv.org/pdf/2004.09820.pdf)
     - [PULNS: Positive-Unlabeled Learning with Effective Negative Sample Selector(2021)](https://ojs.aaai.org/index.php/AAAI/article/view/17064/16871)\[[slides](https://slideslive.com/38948747/pulns-positiveunlabeled-learning-with-effective-negative-sample-selector)\]
