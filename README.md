@@ -12,6 +12,7 @@
     - [Learning Classifiers from Only Positive and Unlabeled Data(2008)](https://cseweb.ucsd.edu/~elkan/posonly.pdf)\[[pulearn](https://github.com/pulearn/pulearn#31elkanoto)\]
     - [Analysis of Learning from Positive and Unlabeled Data(2014)](https://papers.nips.cc/paper/2014/file/35051070e572e47d2c26c241ab88307f-Paper.pdf)
     - [A Modified Logistic Regression for Positive and Unlabeled Learning(2019)](https://www.researchgate.net/profile/Kristen-Jaskie/publication/340306999_A_Modified_Logistic_Regression_for_Positive_and_Unlabeled_Learning/links/609b0152a6fdccaebd2525d1/A-Modified-Logistic-Regression-for-Positive-and-Unlabeled-Learning.pdf) \[[video](https://www.youtube.com/watch?v=uk6SlTzfbUY)\]
+    - [DEDPUL: Difference-of-Estimated-Densities-based Positive-Unlabeled Learning](https://arxiv.org/abs/1902.06965)\[[source](https://github.com/dimonenka/DEDPUL)\]
   - [Sample-selection/Two-step methods](#sample-selection)
     - [Positive-unlabeled learning for disease gene identification(2012)](https://academic.oup.com/bioinformatics/article/28/20/2640/206620?login=true)
     - [A bagging SVM to learn from positive and unlabeled examples(2013)](https://members.cbio.mines-paristech.fr/~jvert/svn/bibli/local/Mordelet2013bagging.pdf) \[[pulearn](https://github.com/pulearn/pulearn#32bagging-based-pu-learning)\]
@@ -24,6 +25,7 @@
   - [Python](#frameworks-python)
     - [`nnPUlearning`](https://github.com/kiryor/nnPUlearning)
     - [`pulearn`](https://github.com/pulearn/pulearn)
+    - [`dedpul`](https://github.com/dimonenka/DEDPUL)
   - [Spark](#frameworks-spark)
     - [`pu4spark`](https://github.com/ispras/pu4spark)
 
